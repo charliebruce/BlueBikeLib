@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BlueBikeLib.iml" filepath="$PROJECT_DIR$/BlueBikeLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bluebikelib/bluebikelib.iml" filepath="$PROJECT_DIR$/bluebikelib/bluebikelib.iml" />
+    </modules>
+  </component>
+</project>
